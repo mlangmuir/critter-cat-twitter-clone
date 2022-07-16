@@ -16,7 +16,7 @@ To run this app on the client side, you must first install `yarn` and ensure tha
 Once your dependencies are install, you can navigate to the `client` folder by typing `cd client` in the terminal and then type `yarn start` to start the application.
 
 ### Backend
-Navigate to the `server` folder by typing `cd server` in the terminal and then type `yarn start:server` to start up the server.
+Open another terminal. Navigate to the `server` folder by typing `cd server` in the terminal and then type `yarn start:server` to start up the server.
 
 
 <img width="1193" alt="Screen Shot 2022-07-15 at 1 31 31 PM" src="https://user-images.githubusercontent.com/96800876/179306208-53928cc7-add3-445b-80ed-2614b005c08a.png">
