@@ -4,8 +4,6 @@ This cat Twitter clone was my first React project. It was done as part of my Dip
 
 The project is not currently hosted but I have uploaded a video demo of my work at the following link: https://www.youtube.com/watch?v=sFCoq1W97zI&ab_channel=MatthewLangmuir
 
----
-
 ## Development
 
 ### Frontend
